@@ -141,7 +141,7 @@ function App() {
 
       <footer className="footer">
         <div className="footer-nav">
-          <a href="#">X (TWITTER)</a>
+          <a href="https://x.com/NormalCoinxyz" target="_blank" rel="noopener noreferrer">X (TWITTER)</a>
           <a href={`https://dexscreener.com/solana/${CA}`} target="_blank" rel="noopener noreferrer">DEXSCREENER</a>
           <a href={`https://solscan.io/token/${CA}`} target="_blank" rel="noopener noreferrer">SOLSCAN</a>
         </div>
