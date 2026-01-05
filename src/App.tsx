@@ -6,7 +6,7 @@ function App() {
   const [copied, setCopied] = useState(false)
   const [currentTime] = useState(new Date().toISOString())
 
-  const CA = "0x0000000000000000000000000000000000000000"
+  const CA = "EPaf623sWGyASDUBBDicyhdCFtDjNQAoC1JNGdUzpump"
 
   useEffect(() => {
     if (isRounded) {
